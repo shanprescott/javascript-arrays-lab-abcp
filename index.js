@@ -28,3 +28,8 @@ destructivelyRemoveLastKitten();
 
 kittens = ['Milo', 'Otis', 'Garfield']
 
+function destructivelyRemoveFirstKitten() {
+  kittens.shift('Milo')
+  return kittens
+}
+destructivelyRemoveFirstKitten();
