@@ -41,11 +41,5 @@ function appendKitten(name){
 }
 appendKitten();
 
-kittens = ['Milo', 'Otis', 'Garfield']
-
-function prependKitten(name){
-  [...kittens, 'Arnold']
-}
-prependKitten();
 
 
