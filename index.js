@@ -36,7 +36,7 @@ destructivelyRemoveFirstKitten();
 
 kittens = ['Milo', 'Otis', 'Garfield']
 
-
+var 
 
 
 
