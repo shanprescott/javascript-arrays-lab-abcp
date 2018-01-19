@@ -25,3 +25,6 @@ function destructivelyRemoveLastKitten() {
   
 }
 destructivelyRemoveLastKitten();
+
+kittens = ['Milo', 'Otis', 'Garfield']
+
