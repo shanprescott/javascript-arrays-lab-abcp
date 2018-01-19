@@ -36,7 +36,9 @@ destructivelyRemoveFirstKitten();
 
 kittens = ['Milo', 'Otis', 'Garfield']
 
-var 
+function appendKitten(name){
+  
+}
 
 
 
