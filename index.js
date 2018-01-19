@@ -11,4 +11,8 @@ destructivelyAppendKitten();
 
 kittens = ['Milo', 'Otis', 'Garfield']
 
-function destructivelyPreppendKitten
+function destructivelyPrependKitten(name) {
+  kittens.unshift('Bob')
+  return kittens
+}
+destructivelyPrependKitten();
