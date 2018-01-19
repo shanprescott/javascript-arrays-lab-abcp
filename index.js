@@ -20,7 +20,7 @@ destructivelyPrependKitten();
 kittens = ['Milo', 'Otis', 'Garfield']
 
 function destructivelyRemoveLastKitten() {
-  kittems.pop([2])
+  kittens.pop()
   return kittens
   
 }
