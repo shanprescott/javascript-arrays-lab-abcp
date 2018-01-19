@@ -19,7 +19,7 @@ destructivelyPrependKitten();
 
 kittens = ['Milo', 'Otis', 'Garfield']
 
-function appendKitten(name) {
+function destructivelyRemoveLastKitten(name) {
   
   
 }
