@@ -33,3 +33,12 @@ function destructivelyRemoveFirstKitten() {
   return kittens
 }
 destructivelyRemoveFirstKitten();
+
+kittens = ['Milo', 'Otis', 'Garfield']
+
+
+
+
+
+
+
