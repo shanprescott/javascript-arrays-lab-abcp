@@ -16,3 +16,10 @@ function destructivelyPrependKitten(name) {
   return kittens
 }
 destructivelyPrependKitten();
+
+kittens = ['Milo', 'Otis', 'Garfield']
+
+function appendKitten(name) {
+  
+  
+}
